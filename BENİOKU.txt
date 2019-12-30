@@ -1,0 +1,1 @@
+girdileri girerken aralarda boşluk bırakınca boşluğu da sayıyor ve hesaplamaları eksik yapıyor boşluk bırakmadan input alınmalıdır..
